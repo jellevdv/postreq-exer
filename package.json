@@ -1,0 +1,22 @@
+{
+  "name": "postreq-exer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jellevdv/postreq-exer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jellevdv/postreq-exer/issues"
+  },
+  "homepage": "https://github.com/jellevdv/postreq-exer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
